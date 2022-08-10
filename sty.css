@@ -1,0 +1,27 @@
+body{
+    background-color: chartreuse;
+}
+.heading{
+font-style: unset;
+font-weight: 800;
+text-align: center;
+color: blue;
+}
+#can{
+    background-color: black;
+    height: 600px;
+    width: 800px;
+}
+.convas{
+   
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
